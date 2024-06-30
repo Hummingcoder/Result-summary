@@ -24,7 +24,7 @@ Users should be able to:
 
 ![](./design/desktop-design.jpg.jpg)
 
-### Link[s
+### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Frontend Mentor URL: [click here](https://www.frontendmentor.io/solutions/result-summery-4qKuQS65jn)
+- Live Site URL: [click here](https://hummingcoder.github.io/Result-summary/)
